@@ -1,12 +1,12 @@
-[1.Installing React Router](#Installig)
-[2.1.2 React Router Refactoring Options](#Refactoring_Options)
-[2.React_Root_Component_Setup](#2.React_Root_Component_Setup)
-[3._Dynamic_Routes](#3._Dynamic_Routes)
-[3.1_useParams](#3.1_useParams)
-[3.2_NavLink_Component_isActive](#3.2_NavLink_Component_isActive)
-[4._createSearchParams()](#4._createSearchParams())
-[5._useSearchParams()](#5._useSearchParams())
-[6._Navigate()](#6._Navigate())
+1. [Installing React Router](#Installig)
+2. [React Router Refactoring Options](#Refactoring_Options)
+3. [React_Root_Component_Setup](#2.React_Root_Component_Setup)
+4. [Dynamic_Routes](#3._Dynamic_Routes)
+5. [useParams](#3.1_useParams)
+6. [NavLink_Component_isActive](#3.2_NavLink_Component_isActive)
+7. [createSearchParams()](#4._createSearchParams())
+8. [useSearchParams()](#5._useSearchParams())
+9. [Navigate()](#6._Navigate())
 
 # Installing
 
